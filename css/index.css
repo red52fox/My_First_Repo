@@ -1,0 +1,38 @@
+.block_element {
+    background-color: lightgray;
+    width: 99%;
+}
+
+.inline-block {
+    display: inline-block;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: darkgray;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sideBar {
+    width: 29%;
+    height: 600px;
+    background-color: blue;
+    float:left;
+}
+
+.profile {
+    height: 150px;
+    background-color: orange;
+}
+
+.stats {
+    height: 450px;
+    background-color: rgb(204, 112, 0);
+}
+
+.content {
+    width: 70%;
+    height: 600px;
+    background-color:mediumaquamarine;
+    float: left;
+}
